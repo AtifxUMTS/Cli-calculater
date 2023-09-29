@@ -1,7 +1,7 @@
 {
   "name": "cli-calculater",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple cli calculater project",
   "main": "index.js",
   "scripts": {
